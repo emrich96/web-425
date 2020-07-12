@@ -1,3 +1,10 @@
+/**
+ * Title: my-details.component.ts
+ * Author: Emily Richter
+ * Date: 11 July 2020
+ * Description: My details component (details view)
+ */
+
 import { Component, OnInit } from '@angular/core';
 
 @Component({

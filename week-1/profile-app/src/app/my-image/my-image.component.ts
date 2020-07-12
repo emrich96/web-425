@@ -1,3 +1,10 @@
+/**
+ * Title: my-image.component.ts
+ * Author: Emily Richter
+ * Date: 11 July 2020
+ * Description: My image component (image view)
+ */
+
 import { Component, OnInit } from '@angular/core';
 
 @Component({
