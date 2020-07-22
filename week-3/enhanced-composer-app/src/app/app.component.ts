@@ -1,7 +1,7 @@
 /**
  * Title: app.component.ts
  * Author: Emily Richter
- * Date: 18 July 2020
+ * Date: 21 July 2020
  * Description: App component
  */
 
@@ -13,5 +13,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'composer-app';
+  assignment: string = "Exercise 3.2 - Passing Data to Routes, Part 1";
 }

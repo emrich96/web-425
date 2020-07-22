@@ -1,7 +1,7 @@
 /**
  * Title: contact.component.ts
  * Author: Emily Richter
- * Date: 18 July 2020
+ * Date: 21 July 2020
  * Description: Contact component (Contact page)
  */
 

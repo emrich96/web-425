@@ -1,7 +1,7 @@
 /**
  * Title: about.component.ts
  * Author: Emily Richter
- * Date: 18 July 2020
+ * Date: 21 July 2020
  * Description: About component (About composer page)
  */
 
